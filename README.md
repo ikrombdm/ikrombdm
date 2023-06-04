@@ -1,13 +1,26 @@
-![Ikrom's web summary card](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
+![Ikrom's web summary card](README_banner_ikrombdm.png)
+
+### Ikrom Urazaliyev ✨
 
 
-![ikrombdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrombdm&theme=default&show_icons=true&hide=contribs,prs)
+<small> My name is Claudia Benito and I am front-end developer from Spain. I have experience building SPAs and JAMstack sites. I am an avid learner and diligent developer who enjoy working in multidisciplinary teams. </small>
+
 
 [![Github](https://img.shields.io/github/followers/ikrombdm?label=Follow&style=social)](https://github.com/ikrombdm)
+[![Twitter](https://img.shields.io/github/followers/ikrombdm?label=Follow&style=social)](https://github.com/ikrombdm)
+
+
+
+
+
+<!-- ![ikrombdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrombdm&theme=default&show_icons=true&hide=contribs,prs) -->
 
 <a href="https://github.com/ikrombdm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
+
+
+
 
 
 
