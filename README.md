@@ -14,12 +14,10 @@ My name is Ikrom Urazaliyev and I am front-end developer from Uzbekistan. I have
 </a>
 <br>
 <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 
-
-# [Ikrombdm](https://ikrombdm.github.io) 
-
-
+<hr>
+You can see more: <a href="https://ikrombdm.github.io">ikrombdm</a>
 
 
 
