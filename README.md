@@ -1,7 +1,7 @@
 ![Ikrom's web summary card](README_banner_ikrombdm.png)
 
 ## Hello 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikrombdm&label=%20viewers&color=FF4E05&style=flat" alt="ikrombdm" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikrombdm&label=%20viewers&color=FF4E05&style=flat" alt="ikrombdm" /> </p> -->
 <small>
 My name is Ikrom Urazaliyev and I am front-end developer from Uzbekistan. I have experience building SPAs and JAMstack sites. I am an avid learner and diligent developer who enjoy working in multidisciplinary teams.
 </small>
